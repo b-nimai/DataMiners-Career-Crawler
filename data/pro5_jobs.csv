@@ -1,0 +1,477 @@
+Job Name,Job Description,posting date,Expereince,Location,Company Name,Job Applicatio link,Job Type
+Senior Product Engineer (Software Engineer),"Client Background
+Our client is a healthcare technology company building AI-first products that sit at the intersection of engineering velocity, customer value, and automation. They operate with a strong product mindset, focusing on rapid experimentation, measurable outcomes, and systems that scale both technical and business impact.
+The Mission
+The Product Engineer sits at the intersection of engineering speed and customer value. You will build the systems and automation that dramatically accelerate our product development lifecycle. Your mission is to minimize the time from validated customer need to high-value, released product, ensuring that every engineering effort is purposeful and measurable.
+The Challenge
+As a core strategist and executor for product delivery, you will translate customer empathy and business requirements directly into automated processes. You will create frameworks to:
+-
+Deeply Understand:
+Analyze internal stakeholders and external users to inform product decisions.
+-
+Validate:
+Build automated prototypes to test assumptions rapidly.
+-
+Prioritize:
+Identify and focus on the highest-impact problems.
+-
+Communicate:
+Align the team on insights, decisions, and priorities.
+What You'll Do
+You will own and automate the entire product development cycle, codifying the principles of the Product:
+-
+Triaging:
+Identify bottlenecks from ideation to deployment, and develop tools, agents, and frameworks to eliminate them. This includes automating Feature Request collection and generating draft User Stories from research transcripts.
+-
+User Stories & Interactions:
+Convert user research and market analysis into actionable engineering specifications with measurable success metrics. Ensure development tasks align with User Stories and Detailed User Interactions.
+-
+Rapid Prototyping:
+Define and manage the product roadmap, ensuring each iteration delivers tangible business and customer value. Collaborate with Product Managers on acceptance criteria, prototypes, and validation.
+-
+Product Tooling:
+Build internal platforms that empower PMs and designers to operate with autonomy and speed. This includes UX Flow Testing with mock data, validating prototypes, and maintaining UX consistency across the application.
+Who You Are
+You are a systems-thinker with a builder's instinct, able to translate vague requirements into automated, scalable solutions. You thrive in fast-moving environments and are passionate about engineering velocity. You ask why at every step and continuously seek better ways to deliver value.
+Required Experience & Qualifications
+We are looking for Senior talent (5+ years experience) with a strong track record in product engineering:
+-
+Product Company Experience:
+1+ year in a product-focused company within the last 3 years.
+-
+Healthcare Domain Knowledge:
+At least 6 months of experience with healthcare data, including wearables, diagnostics, or medical records.
+-
+Open-Source or Writing:
+Maintain a public repository or blog (repo ≥6 months old, original work; blog ≥1000 words).
+-
+CS Fundamentals:
+Degree in Computer Science or equivalent technical expertise.
+-
+End-to-End Ownership:
+Proven experience taking a product from concept to launch.
+-
+Data Literacy:
+Comfortable defining and analyzing metrics (A/B testing, engagement, conversion).
+-
+Modern Methodology:
+Familiarity with CI/CD, feature flagging, and developer tooling.
+-
+AI Native:
+Experience using AI agents to write code and articulate limitations.
+Bonus:
+Background as a Product Manager with engineering experience or vice versa, particularly focused on software products.
+Pro5 is a global platform helping thousands of vetted professionals get hired by top employers.
+See what others say on our public
+Google Reviews
+and learn how we keep your data safe in our
+Trust Center
+.",03/05/2026,5 Years,India,Pro5.ai,https://www.foundit.in/job/senior-product-engineer-software-engineer-pro5-ai-india-51825443,Full time
+Software Architect,"About the Client
+Our client is one of Asia's largest healthcare services providers, delivering innovative technology and data-driven solutions that support the safe, efficient, and secure distribution of medicines and healthcare products. With operations across multiple markets, they are deeply committed to transforming healthcare through digital innovation and advanced system architecture that connects patients, healthcare professionals, and partners seamlessly.
+Summary
+We are looking for a visionary and highly experienced
+Software Architect
+to define, guide, and oversee the architectural roadmap for our engineering organization. This pivotal role requires a deep, hands-on understanding of
+microservices architecture
+, proficiency across the full stack, and expert-level knowledge of
+cloud-native development using Google Cloud Platform (GCP)
+and
+Kubernetes (GKE)
+.
+The ideal candidate will bridge technical strategy with business goals, ensuring systems are
+highly available, scalable, maintainable, and secure
+.
+Responsibilities
+Define and Govern Architecture:
+Establish the architectural vision, standards, and blueprints for all software systems, focusing on evolution and continuous improvement of the existing microservices architecture.
+Technical Leadership & Mentorship:
+Act as the highest-level technical authority, guiding engineering teams (including Team Leads) on complex design issues, best practices, and innovative solutions.
+System Design:
+Lead the design and documentation of major features, services, and integrations, ensuring non-functional requirements (scalability, performance, reliability, security) are met.
+Technology Evaluation:
+Research, evaluate, and recommend new technologies, frameworks (e.g., Go, Spring Boot, React), and tools to improve efficiency, performance, and development speed.
+Deployment & Operations:
+Collaborate closely with DevOps to optimize CI/CD pipelines (
+Argo CD
+,
+Azure DevOps
+) and deployment models on
+GKE
+, ensuring architectural changes are operationalized effectively.
+Workflow Integration:
+Provide expertise and oversight for the design and evolution of complex business process systems, particularly those using workflow engines like
+Camunda
+.
+Code Quality:
+Review critical code sections, design proposals, and technical documentation, setting the bar for engineering excellence across the department.
+Risk Mitigation:
+Identify and mitigate technical risks and architectural debt across the platform.
+Qualifications
+8+ years of experience in software engineering, with at least 3+ years in a dedicated Software Architect or Principal Engineer role.
+Proven expertise in
+designing and scaling complex microservices architectures
+.
+Hands-on experience with
+Google Kubernetes Engine (GKE)
+and the
+Google Cloud Platform (GCP)
+.
+Strong proficiency in multiple programming languages, particularly
+Go
+and/or
+Java (Spring Boot)
+, with experience in modern frontend frameworks like
+React
+.
+Proficient with
+CI/CD tools (Azure DevOps)
+and
+GitOps practices (Argo CD)
+.
+Demonstrated experience with workflow or BPM systems (
+Camunda
+preferred).
+Exceptional ability to articulate complex technical concepts to both technical and non-technical stakeholders.
+Proven record in
+build vs. buy decision-making
+and defining
+technical roadmaps
+.
+Bonus Points
+Experience with
+multi-cloud environments (AWS or Azure)
+.
+Deep knowledge of
+database technologies
+such as
+PostgreSQL
+and distributed data patterns.
+Familiarity with
+AI/ML technologies
+to enhance system capabilities or developer productivity.
+Published papers, patents, or significant
+open-source contributions
+.",04/02/2026,8 Years,India,Pro5.ai,https://www.foundit.in/job/software-architect-pro5-ai-india-44381174,Full time
+Senior Product Engineer/Manager,"Client Background
+Our client is a healthcare technology company building AI-first products that sit at the intersection of engineering velocity, customer value, and automation. They operate with a strong product mindset, focusing on rapid experimentation, measurable outcomes, and systems that scale both technical and business impact.
+The Mission
+The Product Engineer sits at the intersection of engineering speed and customer value. You will build the systems and automation that dramatically accelerate our product development lifecycle. Your mission is to minimize the time from validated customer need to high-value, released product, ensuring that every engineering effort is purposeful and measurable.
+The Challenge
+As a core strategist and executor for product delivery, you will translate customer empathy and business requirements directly into automated processes. You will create frameworks to:
+-
+Deeply Understand:
+Analyze internal stakeholders and external users to inform product decisions.
+-
+Validate:
+Build automated prototypes to test assumptions rapidly.
+-
+Prioritize:
+Identify and focus on the highest-impact problems.
+-
+Communicate:
+Align the team on insights, decisions, and priorities.
+What You'll Do
+You will own and automate the entire product development cycle, codifying the principles of the Product:
+-
+Triaging:
+Identify bottlenecks from ideation to deployment, and develop tools, agents, and frameworks to eliminate them. This includes automating Feature Request collection and generating draft User Stories from research transcripts.
+-
+User Stories & Interactions:
+Convert user research and market analysis into actionable engineering specifications with measurable success metrics. Ensure development tasks align with User Stories and Detailed User Interactions.
+-
+Rapid Prototyping:
+Define and manage the product roadmap, ensuring each iteration delivers tangible business and customer value. Collaborate with Product Managers on acceptance criteria, prototypes, and validation.
+-
+Product Tooling:
+Build internal platforms that empower PMs and designers to operate with autonomy and speed. This includes UX Flow Testing with mock data, validating prototypes, and maintaining UX consistency across the application.
+Who You Are
+You are a systems-thinker with a builder's instinct, able to translate vague requirements into automated, scalable solutions. You thrive in fast-moving environments and are passionate about engineering velocity. You ask why at every step and continuously seek better ways to deliver value.
+Required Experience & Qualifications
+We are looking for Senior talent (5+ years experience) with a strong track record in product engineering:
+-
+Product Company Experience:
+1+ year in a product-focused company within the last 3 years.
+-
+Healthcare Domain Knowledge:
+At least 6 months of experience with healthcare data, including wearables, diagnostics, or medical records.
+-
+Open-Source or Writing:
+Maintain a public repository or blog (repo ≥6 months old, original work; blog ≥1000 words).
+-
+CS Fundamentals:
+Degree in Computer Science or equivalent technical expertise.
+-
+End-to-End Ownership:
+Proven experience taking a product from concept to launch.
+-
+Data Literacy:
+Comfortable defining and analyzing metrics (A/B testing, engagement, conversion).
+-
+Modern Methodology:
+Familiarity with CI/CD, feature flagging, and developer tooling.
+-
+AI Native:
+Experience using AI agents to write code and articulate limitations.
+Bonus:
+Background as a Product Manager with engineering experience or vice versa, particularly focused on software products.
+Pro5 is a global platform helping thousands of vetted professionals get hired by top employers.
+See what others say on our public
+Google Reviews
+and learn how we keep your data safe in our
+Trust Center
+.",22/03/2026,5 Years,India,Pro5.ai,https://www.foundit.in/job/senior-product-engineer-manager-pro5-ai-india-48112018,Full time
+Senior Data Analyst,"Reporting Line
+• Reports to Senior Manager of Data Analytics
+Purpose
+Our client is seeking a highly skilled
+Senior Data Analyst
+to join their Data Analytics Team. The successful candidate will act as the guardian of data accuracy and system reliability. This role focuses on investigating and resolving complex data discrepancies, performing root cause analysis across data pipelines from SAP and BigQuery to Looker and PowerBI, and handling insight extraction across various data sources. The role also involves troubleshooting technical issues in existing dashboards and ensuring strong business trust in data assets.
+Duties and Responsibilities
+Data Integrity and Root Cause Analysis
+• Act as the primary investigator for reported data discrepancies.
+• Trace data lineage from visualization layers such as Looker and PowerBI back to raw sources including BigQuery and SAP.
+• Identify, explain, and fix root causes of data mismatches.
+Technical Troubleshooting and Maintenance
+• Review and debug existing codebases including LookML, PowerBI DAX, and SQL.
+• Identify logic errors or inefficiencies in dashboards and implement fixes or guide developers on remediation.
+Focus on Explanation
+• Translate technical root causes into clear business explanations for stakeholders, including explaining why numbers changed or were missing.
+Insight Generation
+• Execute rapid data insight extraction and analysis requests to support immediate business questions.
+Stakeholder Engagement
+• Communicate complex data insights effectively to senior stakeholders.
+• Clearly articulate analysis outcomes and their business implications.
+Team Collaboration
+• Provide guidance and support to junior team members.
+• Ensure seamless project execution and knowledge sharing.
+Minimum Requirements
+Work Experience and Education
+• Minimum of 5 years of experience in business intelligence or data analytics projects.
+• Experience in client-facing projects is a plus.
+• Bachelor's or postgraduate degree in Mathematics, Statistics, Engineering, Machine Learning, Artificial Intelligence, or related analytical fields with experience in data analytics and data science.
+Knowledge, Skills, and Abilities
+• Minimum of 5 years in data analytics with a proven track record of handling large datasets and delivering business insights.
+• Proficiency in visualization using Google Looker, Looker Studio, and PowerBI.
+• Proficiency in writing queries to prove or disprove Looker and PowerBI dashboard figures against raw data.
+• Proficiency in BigQuery, Vertex AI, and the GCP suite.
+• Proficiency in Python and SQL.
+• Strong problem-solving skills with the ability to provide data product support and data quality assurance.
+• Experience with ETL processes and SAP HANA is a plus.
+• Excellent communication skills to engage effectively with senior stakeholders.
+• English fluency is essential.
+• Experience in client-facing projects or multicultural environments.
+Travel and Work Requirements
+• Occasional off-hours work and or holiday work may be required.
+Essential Skillset
+Technical Competencies
+• Exceptional communication skills with the ability to articulate complex technical concepts to diverse audiences.
+• Strong expertise in data validation across multiple sources, root cause analysis, and closing data discrepancies.
+• Excellent troubleshooting and debugging of data models and dashboards.
+• Looker experience including LookML modeling, dashboard and visualization creation, administration, and governance.
+• PowerBI experience including report and dashboard development, dataflows, and data modeling.
+• BigQuery experience including creating and optimizing views.
+• Experience using GCP.
+• Excellent SQL and Python skills.
+Desirable Skillset
+• Proactive working style.
+• Proven ability to meet strict commercial deadlines.
+• Ability to work independently and overcome technical challenges through research.
+• Strong communication skills with both business and technical teams.
+• Ability to adapt quickly to changing business environments.
+• Up-to-date knowledge of best practices and advancements in development and design.
+• Strong multitasking and interpersonal skills.
+• Experience documenting, designing, and modeling solutions and explaining them to the team.
+• Analytical and problem-solving mindset.
+• Continuous improvement focus.
+• Self-motivated and eager to learn.
+• Team player with leadership and initiative.
+Disclaimer
+The above statements describe the general nature and level of work performed by individuals assigned to this role. They are not intended to be an exhaustive list of all responsibilities, duties, or skills required.
+Pro5 is a global platform helping thousands of vetted professionals get hired by top employers.
+See what others say on our public
+Google Reviews
+and learn how we keep your data safe in our
+Trust Center
+.",23/02/2026,5 Years,India,Pro5.ai,https://www.foundit.in/job/senior-data-analyst-pro5-ai-india-40793967,Full time
+Data Architect,"We are seeking a talented
+Data Architect
+to design, develop, and govern our data architecture and pipelines. to join as soon as possible.
+Ideally someone who has worked on multiple projects with GCP-Big Query, Data Proc technologies.
+The candidate will need to be collaborative, organised, think out-of-the-box, and be ready to pursue new opportunities. Most importantly, this role is for an individual who is passionate about making a difference through healthcare.
+Key Responsibilities
+Design and implement scalable and robust data architectures for data warehousing and enterprise data platforms.
+Develop and optimize data pipelines and ETL/ELT/CDC (Change Data Capture) workflows using tools such as
+Fivetran
+and
+Cloud Composer
+.
+Collaborate with data scientists, product managers, and business stakeholders to define data requirements and create logical and physical data models.
+Manage and administer various database systems, including
+BigQuery
+,
+SAP HANA
+, and
+PostgreSQL
+.
+Ensure data quality, integrity, and security across all data platforms and pipelines.
+Work with our AI/ML teams to design data serving layers and feature stores that support
+Vertex AI
+workloads.
+Design and develop reporting frameworks and data marts to support business intelligence needs.
+Integrate data platforms with various enterprise systems (CRMs, ERPs) and third-party APIs.
+Define and implement data governance, master data management, and data cataloging strategies.
+Contribute to the full data lifecycle: requirements gathering, architecture, data modeling, development, testing, and deployment.
+Troubleshoot and resolve data platform issues to ensure high availability and optimal performance.
+Document technical designs, data lineage, and architecture for cross-functional reference.
+Required Qualifications
+Bachelor's or Master's degree in Computer Science, Software Engineering, Data Science, or a related field.
+Proficiency in one or more backend languages/frameworks, with a strong preference for
+Python
+or
+Go
+.
+Experience with building RESTful APIs and designing microservices for data delivery.
+Solid grasp of data modeling fundamentals, including Kimball and Inmon methodologies.
+Proficiency in writing complex SQL queries and experience with SQL and NoSQL databases.
+Familiarity with data warehousing concepts and best practices, including CDC.
+Strong version-control habits (Git) and experience with CI/CD pipelines.
+Excellent problem-solving, communication, and collaboration skills.
+Passion for continuous learning and adapting to emerging data technologies.
+Preferred Qualifications
+Hands-on experience designing and deploying production-grade data warehouses.
+Deep experience with
+Google Cloud Platform (GCP)
+:
+BigQuery
+for large-scale analytical workloads.
+Cloud Composer
+for orchestrating complex data pipelines.
+Vertex AI
+for AI/ML model serving and feature stores.
+Experience with other cloud providers (AWS, Azure) and their data services.
+Working knowledge of data governance frameworks, master data management, and data cataloging tools.
+Experience with data ingestion tools like
+Fivetran
+.
+Business-intelligence expertise in building dashboards and reports with
+Power BI
+or
+Tableau
+.
+Familiarity with other data technologies such as
+SAP HANA
+.
+Understanding of MLOps concepts and their application to data pipelines.
+Contributions to open-source data projects or technical blogging/presentation",23/02/2026,0 Years,India,Pro5.ai,https://www.foundit.in/job/data-architect-pro5-ai-india-36342872,Full time
+Order Entry Analyst,"Our client is seeking an
+Order Entry Analyst
+to support order processing, billing, and finance operations. This role involves managing sales orders, validating contract details, supporting collections, and maintaining accurate reconciliations and reporting. The ideal candidate is detail-oriented, organized, and eager to develop expertise in finance and revenue operations.
+Key Responsibilities
+Order Processing & Billing
+Enter and review sales orders in Salesforce and reconcile with executed contracts.
+Validate contract details such as pricing, discounting, and billing terms for accuracy.
+Generate invoices according to billing schedules in Stripe and NetSuite.
+Process approved credit memos and refunds.
+Assist with billing close cycles by preparing reconciliations and ensuring invoice accuracy.
+Collections & Accounts Receivable
+Track AR aging and flag overdue invoices for follow-up.
+Reconcile billing and payments from partners and APIs.
+Provide data inputs for cash collection and inflow reporting.
+Reconciliations & Reporting
+Support ARR-to-billing-to-revenue reconciliations.
+Maintain reporting on revenue forecast vs. actuals to support Finance and RevOps.
+Assist with margin, churn, and contract reporting as needed.
+Prepare ad hoc reports and analyses to support Finance or RevOps requests.
+Cross-Functional Support
+Partner with Finance, RevOps, and Sales teams to resolve order entry and billing issues.
+Ensure compliance with standard policies and controls (e.g., discount validation, revenue recognition rules).
+Support ongoing documentation of order entry and billing processes.
+Qualifications
+0–2 years of experience in order entry, billing, finance operations, or similar roles.
+Familiarity with Salesforce, NetSuite, Stripe, or other CRM/ERP/billing tools (preferred but not required).
+Proficiency in Excel/Google Sheets for data entry, reconciliation, and reporting.
+High attention to detail and accuracy when working with contracts and financial data.
+Strong organizational skills and ability to manage repetitive tasks consistently.
+Good communication skills to collaborate across teams.",24/02/2026,0 Years,India,Pro5.ai,https://www.foundit.in/job/order-entry-analyst-pro5-ai-india-36225368,Full time
+Sales Development Representative,"Sales Development Representative (Remote – India)
+Remote |  Southeast Asia Focus |  Full-Time
+A fast-growing
+climate tech startup
+is looking for its
+first Sales Development Representative (SDR)
+to help expand into new markets across Southeast Asia. If you're passionate about sustainability and excited to help businesses reduce their carbon footprint through innovative technology—this could be the role for you.
+About the Role
+As our first SDR hire in the Philippines, you'll play a key role in building our
+sales development playbook
+, generating new leads, and fueling pipeline growth in mid-market to enterprise segments. This is a high-impact role with plenty of opportunity for growth.
+What You'll Do
+Generate qualified leads through outbound and inbound channels
+Use a multi-touch outreach strategy (email, cold calling, LinkedIn, etc.)
+Educate prospects on our ESG and carbon management solution
+Collaborate with Sales and Marketing teams on campaigns
+Provide valuable feedback to improve product positioning
+Build foundational SDR processes for future hires
+What We're Looking For
+5+ years of SDR or BDR experience in
+SaaS
+Strong written and verbal communication skills
+Experience with CRM tools (e.g.,
+HubSpot
+,
+Salesforce
+)
+Highly motivated, self-starter with strong interpersonal skills
+Experience working remotely and independently
+Passion for climate tech and making a real-world impact
+What We Offer
+Competitive salary +
+stock options
+Unlimited paid time off
+Health insurance coverage
+A collaborative, remote-first work environment
+A chance to work on meaningful projects that support a sustainable future",24/02/2026,5 Years,India,Pro5.ai,https://www.foundit.in/job/sales-development-representative-pro5-ai-india-46425478,Full time
+Senior Recruiter Operations Lead,"Our client is a fast-growing UK-based startup specializing in sourcing, vetting, placing, and managing high-quality offshore developers for international clients. The company is in its early growth phase, offering a genuine opportunity to help build and scale operations from the ground up.
+As
+Senior Recruiter Operations Lead
+, you will own the complete operational backbone of the recruitment and placement engine. This is a senior, hands-on role covering job specification management, candidate sourcing and vetting, onboarding, compliance, first three months success tracking, invoicing, and financial reconciliation within a structured, process-driven environment.
+This role is fully remote and requires alignment with UK business hours.
+Working Hours
+• UK business hours alignment required
+• Approx. 2:30 PM – 10:30 PM IST / 9:00 AM – 5:00 PM GMT
+• Occasional flexibility for urgent client calls
+Key Responsibilities
+• Own end-to-end global employment and compliance processes including requisitions, onboarding, payroll funding, device provisioning, and contract generation
+• Lead internal candidate sourcing including job postings, application filtering, assessments, interviews, and shortlist preparation
+• Format, review, finalize, and maintain detailed job specifications with version control
+• Coordinate all scheduling including interviews, onboarding calls, and reminders
+• Collect and follow up on post-interview feedback from clients and candidates
+• Extend and negotiate offers including salary, start date, and benefits
+• Execute full onboarding including payroll setup, equipment provisioning, and documentation
+• Manage the first three months of each placement with structured check-ins and issue escalation
+• Own invoicing and financial workflows including billing, reconciliation, and overdue follow-ups
+• Maintain accurate CRM and deal-tracking records across all placements
+• Identify risks, suggest process improvements, and support placement health reviews
+Requirements
+• Excellent English communication skills, written and verbal
+• 7+ years senior-level experience in recruitment operations or talent acquisition operations
+• Hands-on experience with global employment or EOR platforms
+• Strong CRM proficiency for deal, contact, and financial tracking
+• Experience with ATS and sourcing platforms
+• Experience with invoicing and basic accounting tools
+• Highly organized, detail-oriented, and process-driven
+• Ability to manage multiple placements in a fast-moving startup environment
+• Ability to work UK business hours remotely
+• Prior experience in technical or developer recruitment is highly desirable
+• Proactive mindset with strong problem-solving and escalation skills
+Why Join
+• Direct influence on building and scaling a growing startup
+• Fully remote role with high ownership and autonomy
+• Competitive compensation aligned with international standards
+• Tools, training, and exposure to global clients
+Pro5 is a global platform helping thousands of vetted professionals get hired by top employers.
+See what others say on our public
+Google Reviews
+and learn how we keep your data safe in our
+Trust Center
+.",03/03/2026,7 Years,India,Pro5.ai,https://www.foundit.in/job/senior-recruiter-operations-lead-pro5-ai-india-42465928,Full time

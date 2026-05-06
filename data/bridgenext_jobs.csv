@@ -1,0 +1,660 @@
+Job Name,Job Description,posting date,Expereince,Location,Company Name,Job Applicatio link,Job Type
+DevOps / Cloud Support Engineer,"DevOps / Cloud Support Engineer
+Job ID: Dev-Eng-Pun-1280
+Location: Pune
+We are seeking a DevOps / Cloud Support Engineer with strong L2/L3 production support experience to manage and troubleshoot cloud-native infrastructure running on AWS and Kubernetes. This role is ideal for someone who thrives in incident response, root cause analysis, and maintaining highly available distributed systems.## Key Responsibilities* Provide L2/L3 support for production Kubernetes clusters and AWS infrastructure* Troubleshoot complex issues across networking, compute, storage, IAM, and containerized workloads* Lead incident response, perform root cause analysis (RCA), and document post-mortems* Monitor system health, respond to alerts, and ensure SLA/SLO compliance* Manage and maintain Infrastructure as Code (Terraform)* Develop automation and operational scripts using Bash, Python, or Go* Support CI/CD pipelines and deployment workflows* Collaborate with engineering teams to resolve systemic issues and improve reliability* Participate in on-call rotation as needed## Required Qualifications* Hands-on experience supporting production Kubernetes environments* Strong knowledge of AWS services (EKS, EC2, IAM, VPC, S3, RDS, CloudWatch, etc.)* Experience with Terraform for infrastructure provisioning and maintenance* Proficiency in Bash scripting and basic programming in Python and/or Go* Strong Linux systems administration and networking fundamentals* Proven troubleshooting experience in distributed/cloud-native environments## Preferred Qualifications* Experience in 24/7 production support environments* Familiarity with monitoring tools (Prometheus, Grafana, ELK, Datadog, etc.)* Knowledge of Docker and containerization best practices* Understanding of cloud security and access control* Some experience with PythonIf you are passionate about solving complex infrastructure problems, improving system reliability, and supporting mission-critical cloud platforms, we’d love to hear from you.
+
+Apply Now
+
+
+ Return to search",Not Specified,4-6 Years,Pune,Bridgenext,https://www.bridgenext.com/company/careers/india-openings/?code=Dev-Eng-Pun-1280,Full time
+Senior Salesforce Developer,"Senior Salesforce Developer
+Job ID: Sen-Sal-Pun-1296
+Location: Pune
+Senior Salesforce Developer  Position The Bridgenext Senior Salesforce Developer plays a critical role in the success of building custom Salesforce solutions. They are involved in all aspects of our Agile delivery methodology and are key to ensuring that our solutions meet clients’ business needs. Our development team understands where out of the box functionality ends, and custom development begins. They are curious, proactive and able to design features independently.   Duties & Responsibilities ●     Work both independently and collaboratively with your team to deliver solutions that meet client expectations and acceptance criteria●     Potentially juggle 2 projects simultaneously, setting the correct expectations with project leadership on what can and cannot be accomplished given your commitments●     Provide solution implementation using a variety of technologies listed in the requirements. Be inquisitive, but practical.●     Provide guidance to team members on the implementation approaches for both your work and the work of others ●     Participate in the code review process and also perform code reviews, as needed●     Maintain a strong familiarity with and adherence to Bridgenext’s coding standards and best practices●     Write test methods as a feature of your codebase, and not just a deployment requirement●     Proactively complete peer surveys to support the feedback process for individuals and continual craft mastery●     Earn Salesforce Certifications to support career advancement●     Ability to work seamlessly within a team as well as manage individual tasks  Experience  Required:  ●     4+ years Salesforce Development experience●     Strong understanding and execution of Salesforce concepts ●     Experience with Salesforce packaging●     Ample experience with Agile/Scrum and test-driven development methodologies●     Able to demo to the client and justify your implementation approach to both technical and non-technical stakeholders●     Responsiveness to requests from project members and supervisors●     Salesforce JavaScript Dev I and/or Salesforce Platform Dev I certification●     Salesforce Platform Dev 2 certification (bonus)●     4+ years high-level Salesforce application development experience (that’s 4+ years of Apex, not 4+ years of creating objects, reports and workflows).●     4+ years developing advanced user interfaces on the Salesforce platform using Aura and/or Lightning Web Components●     Able to articulate object-oriented principles in multiple programming languages●     Highly proficient with SOQL, SOSL, Triggers, Batch●     Intermediate+ core JavaScript skills●     Intermediate Visualforce knowledge●     Must use and understand GitHub / Bitbucket development practices●     Experience with common API and integration patterns●     Excellent written and verbal communicationPreferred: ·      Trailhead Trailblazer Rank of Expeditioner+·      CSS skills nice to have
+
+Apply Now
+
+
+ Return to search",Not Specified,4-6 Years,Pune,Bridgenext,https://www.bridgenext.com/company/careers/india-openings/?code=Sen-Sal-Pun-1296,Full time
+Azure Infra Support Engineer,"Azure Infra Support Engineer
+Job ID: Con-Eng-Pun-1291
+Location: Pune
+This role is for a senior-level administrator with deep expertise in Microsoft Azure cloud infrastructure, traditional server administration, and specialized security knowledge of Microsoft’s security suite, particularly Azure Defender for Cloud. The candidate will be critical in maintaining a secure, highly available, and compliant cloud environment for sensitive healthcare data.Key Responsibilities:Cloud Security and Compliance: Azure Defender for Cloud (Security Center): Manage, monitor, and configure the full capabilities of Azure Defender for Cloud (now part of Microsoft Defender for Cloud), including securing servers, databases, storage accounts, and Kubernetes clustersCompliance & Audit: Implement, audit, and enforce Azure Policy and Azure Blueprints to ensure continuous compliance with healthcare regulations (HIPAA, HITECH, etc.) and organizational security standardsThreat & Vulnerability Management: Drive the vulnerability management program by leveraging the security posture management (CSPM) and threat detection (CWPP) features within Azure Defender for CloudIncident Response: Serve as the primary point of contact for security incidents related to Azure infrastructure, utilizing Microsoft Sentinel (or other SIEM) data integrated with Defender for Cloud alerts for rapid triage and containmentMicrosoft Entra ID (Identity & Access Management): Identity Management: Design, deploy, and manage advanced features of Microsoft Entra ID (formerly Azure AD), including Conditional Access Policies, Privileged Identity Management (PIM) for Just-in-Time (JIT) access, and Identity ProtectionFederation & SSO: Manage and troubleshoot identity federation (e.g., SAML, OAuth) for both cloud-native and SaaS applicationsAccess Control: Implement Azure Role-Based Access Control (RBAC) across management groups, subscriptions, and resource groups to enforce the principle of least privilegeInfrastructure & Server Administration: Azure Infrastructure: Administer and optimize core Azure services including Virtual Machines (VMs), Virtual Networks (VNets), Network Security Groups (NSGs), Azure Firewalls, Azure Load Balancers/Application Gateways, and Azure Storage AccountsMicrosoft Intune (Endpoint Management): Manage and support the mobile device management (MDM) and mobile application management (MAM) policies via Microsoft Intune to secure endpoints and mobile devices accessing protected health information (PHI)OS & Server Administration: Maintain expert-level skills in Windows Server administration (patching, group policy, Active Directory, DNS/DHCP) in both Azure IaaS and traditional on-premises/hybrid environmentsAutomation: Utilize PowerShell, Azure CLI, and Infrastructure as Code (IaC) tools (e.g., Terraform, Bicep) to automate provisioning, configuration, and maintenance tasksMust Have Skills:Minimum 5-7 years of experience in IT administration, with at least 3 years focused on complex Microsoft Azure environments at a senior levelCloud Security Expertise: Proven hands-on experience deploying and managing Azure Defender for Cloud (formerly Security Center), including configuring security policies, monitoring Secure Score, and managing regulatory compliance dashboardsIdentity Expertise: Expert knowledge of Microsoft Entra ID (Azure AD), specifically including Conditional Access, PIM, MFA deployment, and hybrid identity synchronization (Azure AD Connect)Endpoint Management: Strong experience with Microsoft Intune for device enrollment, configuration profiles, compliance policies, and application deploymentServer Administration: Deep working knowledge of Windows Server OS and services (Active Directory, patching, hardening, and troubleshooting) in a production settingHealthcare Compliance: Demonstrated knowledge and understanding of HIPAA Security Rule and HITECH requirements as they apply to cloud infrastructure, data handling, and administrative controlsPreferred Skills:Microsoft Certified: Azure Administrator Associate (AZ-104)Microsoft Certified: Azure Security Engineer Associate (AZ-500) – Highly PreferredMicrosoft Certified: Identity and Access Administrator Associate (SC-300)Professional Skills:Troubleshooting: Advanced ability to diagnose and resolve complex, multi-layered cloud issues spanning identity, network, and security servicesCommunication: Excellent written and verbal communication skills, with the ability to convey complex technical issues to non-technical staff and executive leadershipDocumentation: Ability to create and maintain high-quality documentation, runbooks, and disaster recovery plans for regulated environmentsProactive Mindset: A strong commitment to security best practices and a proactive approach to identifying and mitigating risks before they become incidents
+
+Apply Now
+
+
+ Return to search",Not Specified,5-7 Years,Pune,Bridgenext,https://www.bridgenext.com/company/careers/india-openings/?code=Con-Eng-Pun-1291,Full time
+Salesforce Developer,"Salesforce Developer
+
+
+
+Job Locations
+
+Canada
+
+
+
+
+
+
+ID
+
+2026-10446
+
+
+
+Type
+
+Contract
+
+
+
+Category
+
+Information Technology
+
+
+
+
+
+
+
+
+
+
+Company Overview
+
+
+
+
+
+
+Bridgenext is a digital consulting services leader that helps clients innovate with intention and realize their digital aspirations by creating digital products, experiences, and solutions around what real people need. Our global consulting and delivery teams facilitate highly strategic digital initiatives through digital product engineering, automation, data engineering, and infrastructure modernization services, while elevating brands through digital experience, creative content, and customer data analytics services. Don't just work, thrive. At Bridgenext, you have an opportunity to make a real difference - driving tangible business value for clients, while simultaneously propelling your own career growth. Our flexible and inclusive work culture provides you with the autonomy, resources, and opportunities to succeed. 
+
+
+
+
+
+
+
+Position Description
+
+
+
+
+
+
+The Bridgenext Senior Salesforce Developer plays a critical role in the success of building custom Salesforce solutions. They are involved in all aspects of our Agile delivery methodology and are key to ensuring that our solutions meet clients’ business needs. Our development team understands where out of the box functionality ends, and custom development begins. They are curious, proactive and able to design features independently. Responsibilities include but are not limited to:Work both independently and collaboratively with your team to deliver solutions that meet client expectations and acceptance criteriaPotentially juggle 2 projects simultaneously, setting the correct expectations with project leadership on what can and cannot be accomplished given your commitmentsProvide solution implementation using a variety of technologies listed in the requirements. Be inquisitive, but practicalProvide guidance to team members on the implementation approaches for both your work and the work of othersParticipate in the code review process and also perform code reviews, as neededMaintain a strong familiarity with and adherence to Bridgenext’s coding standards and best practicesWrite test methods as a feature of your codebase, and not just a deployment requirementProactively complete peer surveys to support the feedback process for individuals and continual craft masteryEarn Salesforce Certifications to support career advancementAbility to work seamlessly within a team as well as manage individual tasksWorkplace:  Remote 8-week contract supporting client project working Eastern timezone office hours.  Must Have Skills:4+ years high-level Salesforce application development experience (that’s 4+ years of Apex, not 4+ years of creating objects, reports and workflows)4+ years developing advanced user interfaces on the Salesforce platform using Aura and/or Lightning Web ComponentsStrong understanding and execution of Salesforce conceptsSalesforce JavaScript Dev I and/or Salesforce Platform Dev I certificationExperience with Salesforce packagingAmple experience with Agile/Scrum and test-driven development methodologiesAble to demo to the client and justify your implementation approach to both technical and non-technical stakeholdersResponsiveness to requests from project members and supervisorsAble to articulate object-oriented principles in multiple programming languagesHighly proficient with SOQL, SOSL, Triggers, BatchIntermediate+ core JavaScript skillsIntermediate Visualforce knowledgeMust use and understand GitHub / Bitbucket development practicesExperience with common API and integration patterns Preferred Skills:Salesforce Platform Dev 2 certification (bonus)Trailhead Trailblazer Rank of Expeditioner+CSS skills nice to have Professional Skills:Solid written, verbal, and presentation communication skillsStrong team and individual playerMaintains composure during all types of situations and is collaborative by natureHigh standards of professionalism, consistently producing high quality resultsSelf-sufficient, independent requiring very little supervision or interventionDemonstrate flexibility and openness to bring creative solutions to address issues Bridgenext is an Equal Opportunity Employer Canadian citizens and those authorized to work in Canada are encouraged to apply Compensation varies depending on a wide array of factors, which may include but are not limited to location, role, skill set, and level of experience. The current hourly rate range for this position is $80.00 - $120.00 CAD annually.   #LI-AP1#LI-REMOTE 
+
+
+
+
+Options
+
+Apply for this job onlineApplyShareRefer this job to a friendRefer
+
+
+<p style=""margin: 0px;""><span style=""font-size: 12pt;"">Sorry the Share function is not working properly at this moment. Please refresh the page and try again later.</span></p>
+
+Share on your newsfeed
+
+
+
+
+
+Application FAQs",Not Specified,4+ years,Not Specified,Bridgenext,https://careers-bridgenext.icims.com/jobs/10446/salesforce-developer/job,Contract
+Lead Data Modeler & Analyst,"Lead Data Modeler & Analyst
+
+
+
+Job Locations
+
+Canada-ON-Toronto
+
+
+
+
+
+
+ID
+
+2026-10438
+
+
+
+Type
+
+FullTime
+
+
+
+Category
+
+Software/Application Development
+
+
+
+
+
+
+
+
+
+
+Company Overview
+
+
+
+
+
+
+Bridgenext is a digital consulting services leader that helps clients innovate with intention and realize their digital aspirations by creating digital products, experiences, and solutions around what real people need. Our global consulting and delivery teams facilitate highly strategic digital initiatives through digital product engineering, automation, data engineering, and infrastructure modernization services, while elevating brands through digital experience, creative content, and customer data analytics services. Don't just work, thrive. At Bridgenext, you have an opportunity to make a real difference - driving tangible business value for clients, while simultaneously propelling your own career growth. Our flexible and inclusive work culture provides you with the autonomy, resources, and opportunities to succeed. 
+
+
+
+
+
+
+
+Position Description
+
+
+
+
+
+
+Bridgenext is seeking a Lead Data Modeler & Analyst with demonstrated experience in Capital Markets, Financial Services, Asset Management, or Wealth Management to support enterprise‑scale data initiatives. The role requires hands‑on experience working with financial data domains, industry‑specific data models, and core business and operational processes common to investment, trading, and asset/wealth management environments, combined with strong data modeling expertise to design and govern the underlying data structures. The Lead Data Modeler & Analyst will lead requirements workshops, design and maintain Conceptual, Logical, and Physical data models for the Investment Data Lake, perform hands‑on SQL‑based data profiling and validation, create and maintain data documentation artifacts, and own UAT and post‑production validation to ensure delivered data assets meet business, operational, and regulatory expectations typical of financial services organizations. Responsibilities include but are not limited to:Support the data strategy for the Investment Data Lake and drive the build-out of high-quality, business-aligned data assets.Lead requirements workshops to gather, analyze, and document business/data requirements for enterprise Data Lake / Data Warehouse initiatives; obtain stakeholder sign-off.Perform hands-on data analysis and discovery to understand source systems, business processes, and downstream reporting/analytics needs.Create, maintain, and govern Conceptual, Logical, and Physical Data Models for the Investment Data Lake / DW, ensuring completeness, consistency, and scalability.Apply strong data modeling fundamentals (entities, relationships, keys, constraints, normalization/denormalization) to enable performant and reusable data structures.Partner with architects and engineers to translate models into implementable designs for RDBMS, Hadoop, and analytics environments, aligned to BI and data warehousing best practices.Drive and maintain data documentation artifacts including business requirements, source-to-target mappings, data dictionaries, KPI/metric definitions, and data flow/lineage documentation.Perform hands-on SQL-based profiling, validation, and reconciliation across ingestion and transformation layers to ensure data quality and delivery readiness.Liaise with multiple stakeholders (Business, Data Engineering, QA, Governance) to resolve data gaps, clarify business rules, and align on common definitions.Own UAT end-to-end: define acceptance criteria and test scenarios, coordinate execution with business users, triage/track defects, and secure formal sign-off.Perform post-production data validation to confirm accuracy, completeness, and usability of delivered data assets. Workplace: Hybrid ( 2 days in office) role in downtown Toronto.  Open to those interest in FT employment as well as Contractors (initial 6 mos contract with strong potential for extension)  Must Have Skills:Bachelor’s degree in Computer Science, Information Systems, or related field8–12 years of IT experience with strong focus on enterprise data programs (Data Lake / Data Warehouse / BI)Minimum 4+ years of hands-on Data Modeling experience designing and maintaining Conceptual, Logical, and Physical data models for large-scale data platforms, with strong command of modeling fundamentals (entities, relationships, keys, constraints, normalization/denormalization)Solid experience with business intelligence and data warehousing development technologies, working across RDBMS, Hadoop, and analytics environmentsStrong data analysis and data modeling skills with proven ability to translate business requirements into robust data structures and documentationHands-on SQL expertise for data profiling, validation, reconciliation, and issue investigationHands-on experience with enterprise data modeling tools such as PowerDesigner and/or ErwinStrong experience leading requirements gathering and UAT for data warehouse/data lake initiatives, especially around data ingestionExcellent written and verbal communication skills; able to articulate complex data concepts to both business and technical audiencesStrong work ethic, results orientation, and high attention to detail/accuracy Preferred Skills:Familiarity with Capital Markets data and domains (reference data, instruments, trades, positions/holdings, pricing, corporate actions)Experience with Azure data solutions (ADLS / ADF / Synapse / Databricks) and cloud-based analytics platformsExperience presenting complex data in simple, intuitive formats for business consumption (semantic layers, curated datasets, BI/reporting views) Professional Skills:Strong team and individual playerMaintains composure during all types of situations and is collaborative by natureHigh standards of professionalism, consistently producing high quality resultsSelf-sufficient, independent requiring very little supervision or interventionDemonstrate flexibility and openness to bring creative solutions to address issues Bridgenext is an Equal Opportunity Employer Canadian citizens and those authorized to work in Canada are encouraged to apply Compensation varies depending on a wide array of factors, which may include but are not limited to location, role, skill set, and level of experience. As required by local law, Bridgenext provides a reasonable range of compensation, based on full-time employment, for roles that may be hired as described above. The current salary range for this position is $125,000 - $150,000 CAD annually. Our comprehensive total rewards program goes way beyond a competitive salary.   #LI-AP1 
+
+
+
+
+Options
+
+Apply for this job onlineApplyShareRefer this job to a friendRefer
+
+
+<p style=""margin: 0px;""><span style=""font-size: 12pt;"">Sorry the Share function is not working properly at this moment. Please refresh the page and try again later.</span></p>
+
+Share on your newsfeed
+
+
+
+
+
+Application FAQs",Not Specified,12 years,Not Specified,Bridgenext,https://careers-bridgenext.icims.com/jobs/10438/lead-data-modeler-%26-analyst/job,FullTime
+Contractor - Senior Python Full Stack Developer,"Contractor - Senior Python Full Stack Developer
+
+
+
+Job Locations
+
+Canada-ON-Toronto
+
+
+
+
+
+
+ID
+
+2026-10424
+
+
+
+Type
+
+Contract
+
+
+
+Category
+
+Information Technology
+
+
+
+
+
+
+
+
+
+
+Company Overview
+
+
+
+
+
+
+Bridgenext is a digital consulting services leader that helps clients innovate with intention and realize their digital aspirations by creating digital products, experiences, and solutions around what real people need. Our global consulting and delivery teams facilitate highly strategic digital initiatives through digital product engineering, automation, data engineering, and infrastructure modernization services, while elevating brands through digital experience, creative content, and customer data analytics services. Don't just work, thrive. At Bridgenext, you have an opportunity to make a real difference - driving tangible business value for clients, while simultaneously propelling your own career growth. Our flexible and inclusive work culture provides you with the autonomy, resources, and opportunities to succeed. 
+
+
+
+
+
+
+
+Position Description
+
+
+
+
+
+
+Bridgenext is seeking a Senior Python Full Stack Engineer to design and deliver an AI enabled automation platform within a cloud native Azure ecosystem. The role requires strong hands on expertise in Python based backend development using FastAPI, modern front end frameworks, and applied Large Language Model (LLM) capabilities to build scalable, secure, and intelligent internal applications. The Senior Developer will be responsible for owning end to end development of a prompt driven UI and backend services that automate data ingestion workflows, generate scripts using LLMs, and integrate with enterprise platforms such as Azure Data Factory, Databricks, GitHub, MongoDB, and Azure OpenAI. The solution is expected to run on Azure Kubernetes Service (AKS) with built in authentication, authorization, and scalability. This role goes beyond traditional full stack development and focuses on delivering a tangible AI powered product outcome, automating repetitive ingestion workloads while showcasing enterprise ready AI capabilities within an existing Azure centric framework. Responsibilities include but are not limited to:Design, develop, and maintain end-to-end full-stack applicationsBuild and maintain RESTful APIs using FastAPI with authentication, rate limiting, pagination, and error handlingDevelop scalable backend services using PythonImplement modern front-end applications using React, Angular, or JavaScriptDesign and optimize SQL and NoSQL databasesDeploy and operate containerized applications on Azure Kubernetes Service (AKS)Build LLM-powered features including chat, summarization, RAG, agents, and evaluatorsIntegrate applications with Azure OpenAI and other external AI providersCollaborate with cross-functional teams and participate in code reviewsTroubleshoot production issues and continuously improve system reliability Workplace: Hybrid in the Greater Toronto Area  Must Have Skills:8+ years of professional full-stack software development experienceProficiency in modern front-end frameworks such as React, Angular, or JavaScriptStrong experience building RESTful APIs using FastAPIExpertise in SQL databases (PostgreSQL, MySQL, SQL Server)Experience with NoSQL databases such as MongoDB, DynamoDB, or RedisHands-on experience deploying containerized applications on AKSExperience building LLM-powered solutions including chat, summarization, and RAGExperience integrating with Azure OpenAIStrong proficiency in Python programming Preferred Skills:Good understanding of Agentic AI frameworks such as LangChain or AutoGenExposure to Agent-to-Agent (A2A) communication and agent scalingAzure experience including Data Factory, Entra ID fundamentals, app registrationsKnowledge of OAuth2, OIDC, SSO, and SAML configurations Professional Skills:Solid written, verbal, and presentation communication skillsStrong team and individual playerMaintains composure during all types of situations and is collaborative by natureHigh standards of professionalism, consistently producing high quality resultsSelf-sufficient, independent requiring very little supervision or interventionDemonstrate flexibility and openness to bring creative solutions to address issues Bridgenext is an Equal Opportunity Employer Canadian citizens and those authorized to work in Canada are encouraged to applyCompensation varies depending on a wide array of factors, which may include but are not limited to location, role, skill set, and level of experience. As required by local law, Bridgenext provides a reasonable range of compensation, based on full-time employment, for roles that may be hired as described above. The current salary range for this position is $130,000 - $150,000 CAD annually. Our comprehensive total rewards program goes way beyond a competitive salary.      #LI-FR1
+
+
+
+
+Options
+
+Apply for this job onlineApplyShareRefer this job to a friendRefer
+
+
+<p style=""margin: 0px;""><span style=""font-size: 12pt;"">Sorry the Share function is not working properly at this moment. Please refresh the page and try again later.</span></p>
+
+Share on your newsfeed
+
+
+
+
+
+Application FAQs",Not Specified,8+ years,Not Specified,Bridgenext,https://careers-bridgenext.icims.com/jobs/10424/contractor---senior-python-full-stack-developer/job,Contract
+Lead Business Analyst,"Lead Business Analyst
+
+
+
+Job Locations
+
+Canada
+
+
+
+
+
+
+ID
+
+2026-10385
+
+
+
+Type
+
+FullTime
+
+
+
+Category
+
+Information Technology
+
+
+
+
+
+
+
+
+
+
+Company Overview
+
+
+
+
+
+
+Bridgenext is a digital consulting services leader that helps clients innovate with intention and realize their digital aspirations by creating digital products, experiences, and solutions around what real people need. Our global consulting and delivery teams facilitate highly strategic digital initiatives through digital product engineering, automation, data engineering, and infrastructure modernization services, while elevating brands through digital experience, creative content, and customer data analytics services. Don't just work, thrive. At Bridgenext, you have an opportunity to make a real difference - driving tangible business value for clients, while simultaneously propelling your own career growth. Our flexible and inclusive work culture provides you with the autonomy, resources, and opportunities to succeed. 
+
+
+
+
+
+
+
+Position Description
+
+
+
+
+
+
+Bridgenext is seeking a Lead Business Analyst (Data Warehouse) with demonstrated experience in Capital Markets, Financial Services, Asset Management, or Wealth Management to support enterprise‑scale data initiatives. The role requires hands‑on experience working with financial data domains, industry‑specific data models, and core business and operational processes common to investment, trading, and asset/wealth management environments. The Lead Analyst will carry out requirements workshops, perform hands‑on SQL‑based data profiling and validation, create and maintain data documentation artifacts, and own UAT and post‑production validation to ensure delivered data assets meet business, operational, and regulatory expectations typical of financial services organizations.Participate in enterprise data initiatives and lead requirements workshops to uncover insights, gather business and data requirements, and obtain stakeholder sign‑offPerform data profiling, SQL‑based analysis and validation, and metadata collection to support data quality and delivery readinessSupport the implementation and adherence of data development practices across projects and teamsCreate and maintain data artifacts and documentation, including business requirements, data mappings, and data flowsEnsure that project teams deliver data assets that meet documented business requirements and quality expectationsLiaise with multiple teams and stakeholders to drive alignment and resolve requirement or data‑related gapsLead UAT activities with business users and obtain formal acceptance and sign‑offPerform production data validation post‑implementation to confirm accuracy, completeness, and usability of delivered data assets. Workplace: Ideally located near Toronto for a hybrid schedule. Remote within Canada may be considered for strong candidates.   Must Have Skills:10+ years of experience as a Business Data Analyst, preferably within Capital Markets, Financial Services, Asset or Wealth Management domainsExtensive experience in requirements gathering and leading User Acceptance Testing (UAT) for Data Warehouse projects, with a strong emphasis on data ingestion processes.Strong verbal and written communication skills, with the ability to clearly articulate complex or technical concepts to diverse audiencesStrong analytical mindset with a proven ability to bridge business and technical teams from a data perspectiveDemonstrated problem‑solving, prioritization, and organizational skills, with attention to detail and focus on outcomesExperience presenting or displaying complex data in simple, intuitive formats for business consumptionHands‑on experience writing complex SQL queries for data analysis, validation, and reconciliationProven experience delivering data documentation artifacts in organizations of similar scale and complexity, within project timelines. Preferred Skills:GenAI experience is an asset, including use of AI to accelerate SQL analysis, test design, documentation, or impact analysis.Working experience in investment/trading core systems is desirable, such as Bloomberg Polar Lake, SimCorp Dimension, Findur, Apex, Eagle, Charles River, Sylvan, Calypso Professional Skills:Solid written, verbal, and presentation communication skillsStrong team and individual playerMaintains composure during all types of situations and is collaborative by natureHigh standards of professionalism, consistently producing high quality resultsSelf-sufficient, independent requiring very little supervision or interventionDemonstrate flexibility and openness to bring creative solutions to address issues Bridgenext is an Equal Opportunity Employer Canadian citizens and those authorized to work in Canada are encouraged to applyCompensation varies depending on a wide array of factors, which may include but are not limited to location, role, skill set, and level of experience. As required by local law, Bridgenext provides a reasonable range of compensation, based on full-time employment, for roles that may be hired as described above. The current salary range for this position is $125,000 - $140,000 CAD annually. Our comprehensive total rewards program goes way beyond a competitive salary.    #LI-AP1#LI-REMOTE 
+
+
+
+
+Options
+
+Apply for this job onlineApplyShareRefer this job to a friendRefer
+
+
+<p style=""margin: 0px;""><span style=""font-size: 12pt;"">Sorry the Share function is not working properly at this moment. Please refresh the page and try again later.</span></p>
+
+Share on your newsfeed
+
+
+
+
+
+Application FAQs",Not Specified,10+ years,Not Specified,Bridgenext,https://careers-bridgenext.icims.com/jobs/10385/lead-business-analyst/job,FullTime
+Salesforce Developer,"Salesforce Developer
+
+
+
+Job Locations
+
+United States
+
+
+
+
+
+
+ID
+
+2026-10443
+
+
+
+Type
+
+Contract
+
+
+
+Category
+
+Information Technology
+
+
+
+
+
+
+
+
+
+
+Company Overview
+
+
+
+
+
+
+Bridgenext is a digital consulting services leader that helps clients innovate with intention and realize their digital aspirations by creating digital products, experiences, and solutions around what real people need. Our global consulting and delivery teams facilitate highly strategic digital initiatives through digital product engineering, automation, data engineering, and infrastructure modernization services, while elevating brands through digital experience, creative content, and customer data analytics services. Don't just work, thrive. At Bridgenext, you have an opportunity to make a real difference - driving tangible business value for clients, while simultaneously propelling your own career growth. Our flexible and inclusive work culture provides you with the autonomy, resources, and opportunities to succeed. 
+
+
+
+
+
+
+
+Position Description
+
+
+
+
+
+
+The Bridgenext Senior Salesforce Developer plays a critical role in the success of building custom Salesforce solutions. They are involved in all aspects of our Agile delivery methodology and are key to ensuring that our solutions meet clients’ business needs. Our development team understands where out of the box functionality ends, and custom development begins. They are curious, proactive and able to design features independently. Responsibilities include but are not limited to:Work both independently and collaboratively with your team to deliver solutions that meet client expectations and acceptance criteriaPotentially juggle 2 projects simultaneously, setting the correct expectations with project leadership on what can and cannot be accomplished given your commitmentsProvide solution implementation using a variety of technologies listed in the requirements. Be inquisitive, but practicalProvide guidance to team members on the implementation approaches for both your work and the work of othersParticipate in the code review process and also perform code reviews, as neededMaintain a strong familiarity with and adherence to Bridgenext’s coding standards and best practicesWrite test methods as a feature of your codebase, and not just a deployment requirementProactively complete peer surveys to support the feedback process for individuals and continual craft masteryEarn Salesforce Certifications to support career advancementAbility to work seamlessly within a team as well as manage individual tasksWorkplace:  Remote 8-week contract supporting client project working Eastern timezone office hours.  Must Have Skills:4+ years high-level Salesforce application development experience (that’s 4+ years of Apex, not 4+ years of creating objects, reports and workflows)4+ years developing advanced user interfaces on the Salesforce platform using Aura and/or Lightning Web ComponentsStrong understanding and execution of Salesforce conceptsSalesforce JavaScript Dev I and/or Salesforce Platform Dev I certificationExperience with Salesforce packagingAmple experience with Agile/Scrum and test-driven development methodologiesAble to demo to the client and justify your implementation approach to both technical and non-technical stakeholdersResponsiveness to requests from project members and supervisorsAble to articulate object-oriented principles in multiple programming languagesHighly proficient with SOQL, SOSL, Triggers, BatchIntermediate+ core JavaScript skillsIntermediate Visualforce knowledgeMust use and understand GitHub / Bitbucket development practicesExperience with common API and integration patterns Preferred Skills:Salesforce Platform Dev 2 certification (bonus)Trailhead Trailblazer Rank of Expeditioner+CSS skills nice to have Professional Skills:Solid written, verbal, and presentation communication skillsStrong team and individual playerMaintains composure during all types of situations and is collaborative by natureHigh standards of professionalism, consistently producing high quality resultsSelf-sufficient, independent requiring very little supervision or interventionDemonstrate flexibility and openness to bring creative solutions to address issues Bridgenext is an Equal Opportunity Employer US citizens and those authorized to work in the US are encouraged to apply  #LI-AP1#LI-REMOTE 
+
+
+
+
+Options
+
+Apply for this job onlineApplyShareRefer this job to a friendRefer
+
+
+<p style=""margin: 0px;""><span style=""font-size: 12pt;"">Sorry the Share function is not working properly at this moment. Please refresh the page and try again later.</span></p>
+
+Share on your newsfeed
+
+
+
+
+
+Application FAQs",Not Specified,4+ years,Not Specified,Bridgenext,https://careers-bridgenext.icims.com/jobs/10443/salesforce-developer/job,Contract
+Azure Infra Support Engineer,"Azure Infra Support Engineer
+
+
+
+Job Locations
+
+United States
+
+
+
+
+
+
+ID
+
+2026-10435
+
+
+
+Type
+
+Contract
+
+
+
+Category
+
+Software/Application Development
+
+
+
+
+
+
+
+
+
+
+Company Overview
+
+
+
+
+
+
+Bridgenext is a digital consulting services leader that helps clients innovate with intention and realize their digital aspirations by creating digital products, experiences, and solutions around what real people need. Our global consulting and delivery teams facilitate highly strategic digital initiatives through digital product engineering, automation, data engineering, and infrastructure modernization services, while elevating brands through digital experience, creative content, and customer data analytics services. Don't just work, thrive. At Bridgenext, you have an opportunity to make a real difference - driving tangible business value for clients, while simultaneously propelling your own career growth. Our flexible and inclusive work culture provides you with the autonomy, resources, and opportunities to succeed. 
+
+
+
+
+
+
+
+Position Description
+
+
+
+
+
+
+This role is for a senior-level administrator with deep expertise in Microsoft Azure cloud infrastructure, traditional server administration, and specialized security knowledge of Microsoft's security suite, particularly Azure Defender for Cloud. The candidate will be critical in maintaining a secure, highly available, and compliant cloud environment for sensitive healthcare data. Key Responsibilities:Cloud Security and Compliance:Azure Defender for Cloud (Security Center): Manage, monitor, and configure the full capabilities of Azure Defender for Cloud (now part of Microsoft Defender for Cloud), including securing servers, databases, storage accounts, and Kubernetes clustersCompliance & Audit: Implement, audit, and enforce Azure Policy and Azure Blueprints to ensure continuous compliance with healthcare regulations (HIPAA, HITECH, etc.) and organizational security standardsThreat & Vulnerability Management: Drive the vulnerability management program by leveraging the security posture management (CSPM) and threat detection (CWPP) features within Azure Defender for CloudIncident Response: Serve as the primary point of contact for security incidents related to Azure infrastructure, utilizing Microsoft Sentinel (or other SIEM) data integrated with Defender for Cloud alerts for rapid triage and containmentMicrosoft Entra ID (Identity & Access Management):Identity Management: Design, deploy, and manage advanced features of Microsoft Entra ID (formerly Azure AD), including Conditional Access Policies, Privileged Identity Management (PIM) for Just-in-Time (JIT) access, and Identity ProtectionFederation & SSO: Manage and troubleshoot identity federation (e.g., SAML, OAuth) for both cloud-native and SaaS applicationsAccess Control: Implement Azure Role-Based Access Control (RBAC) across management groups, subscriptions, and resource groups to enforce the principle of least privilegeInfrastructure & Server Administration:Azure Infrastructure: Administer and optimize core Azure services including Virtual Machines (VMs), Virtual Networks (VNets), Network Security Groups (NSGs), Azure Firewalls, Azure Load Balancers/Application Gateways, and Azure Storage AccountsMicrosoft Intune (Endpoint Management): Manage and support the mobile device management (MDM) and mobile application management (MAM) policies via Microsoft Intune to secure endpoints and mobile devices accessing protected health information (PHI)OS & Server Administration: Maintain expert-level skills in Windows Server administration (patching, group policy, Active Directory, DNS/DHCP) in both Azure IaaS and traditional on-premises/hybrid environmentsAutomation: Utilize PowerShell, Azure CLI, and Infrastructure as Code (IaC) tools (e.g., Terraform, Bicep) to automate provisioning, configuration, and maintenance tasks Must Have Skills:Minimum 5-7 years of experience in IT administration, with at least 3 years focused on complex Microsoft Azure environments at a senior levelCloud Security Expertise: Proven hands-on experience deploying and managing Azure Defender for Cloud (formerly Security Center), including configuring security policies, monitoring Secure Score, and managing regulatory compliance dashboardsIdentity Expertise: Expert knowledge of Microsoft Entra ID (Azure AD), specifically including Conditional Access, PIM, MFA deployment, and hybrid identity synchronization (Azure AD Connect)Endpoint Management: Strong experience with Microsoft Intune for device enrollment, configuration profiles, compliance policies, and application deploymentServer Administration: Deep working knowledge of Windows Server OS and services (Active Directory, patching, hardening, and troubleshooting) in a production settingHealthcare Compliance: Demonstrated knowledge and understanding of HIPAA Security Rule and HITECH requirements as they apply to cloud infrastructure, data handling, and administrative controls Preferred Skills:Microsoft Certified: Azure Administrator Associate (AZ-104)Microsoft Certified: Azure Security Engineer Associate (AZ-500) - Highly PreferredMicrosoft Certified: Identity and Access Administrator Associate (SC-300) Professional Skills:Troubleshooting: Advanced ability to diagnose and resolve complex, multi-layered cloud issues spanning identity, network, and security servicesCommunication: Excellent written and verbal communication skills, with the ability to convey complex technical issues to non-technical staff and executive leadershipDocumentation: Ability to create and maintain high-quality documentation, runbooks, and disaster recovery plans for regulated environmentsProactive Mindset: A strong commitment to security best practices and a proactive approach to identifying and mitigating risks before they become incidents Bridgenext is an Equal Opportunity Employer US citizens and those authorized to work in the US are encouraged to apply  #LI-AG1#LI-REMOTE 
+
+
+
+
+Options
+
+Apply for this job onlineApplyShareRefer this job to a friendRefer
+
+
+<p style=""margin: 0px;""><span style=""font-size: 12pt;"">Sorry the Share function is not working properly at this moment. Please refresh the page and try again later.</span></p>
+
+Share on your newsfeed
+
+
+
+
+
+Application FAQs",Not Specified,5-7 years,Not Specified,Bridgenext,https://careers-bridgenext.icims.com/jobs/10435/azure-infra-support-engineer/job,Contract
+Management Consultant,"Management Consultant
+
+
+
+Job Locations
+
+United States
+
+
+
+
+
+
+ID
+
+2026-10420
+
+
+
+Type
+
+FullTime
+
+
+
+Category
+
+Other
+
+
+
+
+
+
+
+
+
+
+Company Overview
+
+
+
+
+
+
+Bridgenext is a digital consulting services leader that helps clients innovate with intention and realize their digital aspirations by creating digital products, experiences, and solutions around what real people need. Our global consulting and delivery teams facilitate highly strategic digital initiatives through digital product engineering, automation, data engineering, and infrastructure modernization services, while elevating brands through digital experience, creative content, and customer data analytics services. Don't just work, thrive. At Bridgenext, you have an opportunity to make a real difference - driving tangible business value for clients, while simultaneously propelling your own career growth. Our flexible and inclusive work culture provides you with the autonomy, resources, and opportunities to succeed. 
+
+
+
+
+
+
+
+Position Description
+
+
+
+
+
+
+We are seeking a Management Consultant who starts every engagement with ""why"" before moving to ""what"" or ""how."" You'll combine product management discipline with design thinking to help clients articulate the business outcomes they're truly after—then architect solutions that deliver those outcomes. This role requires someone who can resist the pull toward premature solutions and instead invest deeply in understanding the business case for change. You will lead client Digital Realization discovery to uncover the underlying business drivers, strategic objectives, and operational challenges behind change initiatives, going beyond stated requirements to define the true problem to solve. Through stakeholder interviews, workshops, and business analysis, you will assess current-state performance across processes, systems, user behaviors, and organizational dynamics, identify gaps, and quantify the business value of closing them. Leveraging strong consulting expertise, you will structure ambiguous problem spaces, develop and test hypotheses, and apply proven frameworks to ensure focus on the highest-value opportunities. Once the strategic “why” is clear and define in a North Star you create, you will translate business objectives into a compelling product or solution vision, define required capabilities, and build value-driven roadmaps that balance strategic impact, user needs, and delivery feasibility. This will all culminate in delivery and client buy into a formal business case for initiative approvals. You will work with Design Teams to ground recommendations in user-centered design by developing personas, journey maps, and experience concepts that build shared understanding and validate assumptions early. You will collaborate closely with engineering teams to account for technical feasibility and implementation complexity while relying on specialists for deep technical decisions. Throughout each engagement, you will document and communicate the strategic rationale behind decisions to guide delivery teams and maintain alignment on intended business outcomes. Responsibilities include but are not limited to:Lead Bridgenext Digital Realization client discovery to uncover the true business drivers, strategic imperatives, and risks behind initiativesFacilitate stakeholder interviews and workshops to assess current-state business performance, processes, user behaviors, and organizational constraintsDefine and quantify the value of change by identifying gaps between current and target states (e.g., revenue impact, cost reduction, risk mitigation, speed-to-market)Structure ambiguous problem spaces using proven product and strategy frameworks to ensure focus on the highest-value opportunitiesWork with AI tools to explore problem spaces, conduct discovery, and synthesize insights into actionable outcomesTranslate business objectives into a clear product or solution vision, required capabilities, and value-driven roadmapsLead prioritization and trade-off discussions balancing business value, user impact, strategic alignment, and delivery feasibilityGround recommendations in user needs through personas, journey maps, and experience concepts that align stakeholders earlyPartner with delivery and engineering teams to incorporate technical feasibility while remaining focused on business outcomesDocument and communicate the strategic rationale behind decisions to guide delivery teams and maintain alignment throughout execution Workplace: Remote in the US  Must Have Skills:5-7 years of experience in product management, strategy consulting, or related rolesProven capabilities with development of business cases, financial analysis, and ROI modelingExperience with stakeholder management and executive-level communication and facilitationHands-on experience exploring and evaluating AI tools, leading discovery efforts, and syn-thesizing findings to inform decisions and solution designHave facilitated workshops to uncover underlying business and user needsAbility to lead with design, both thinking and service design, including personas, journey maps, wireframes, and prototyping working closely with Design and Engineering teamsStrong business acumen, with the ability to connect technology investments to measurable outcomesTechnical fluency to assess feasibility, integrations, scalability, and delivery trade-offsComfortable operating in ambiguity with a discovery-first, problem-solving mindset Preferred Skills:Background in strategy, management, or product consulting, with strong problem-solving and business analysis frameworksExperience in relevant industries or domains, enabling rapid understanding of business context and stakeholder needsPrior work in enterprise consulting companies for digital transformation initiativesProven ability to influence without authority, facilitate complex stakeholder discussions, and define business vision and strategy grounded in clear and objective rationale Professional Skills:Solid written, verbal, and presentation communication skillsStrong team and individual playerMaintains composure during all types of situations and is collaborative by natureHigh standards of professionalism, consistently producing high quality resultsSelf-sufficient, independent requiring very little supervision or interventionDemonstrate flexibility and openness to bring creative solutions to address issues Bridgenext is an Equal Opportunity Employer US citizens and those authorized to work in the US are encouraged to apply   #LI-MA1#LI-REMOTE
+
+
+
+
+Options
+
+Apply for this job onlineApplyShareRefer this job to a friendRefer
+
+
+<p style=""margin: 0px;""><span style=""font-size: 12pt;"">Sorry the Share function is not working properly at this moment. Please refresh the page and try again later.</span></p>
+
+Share on your newsfeed
+
+
+
+
+
+Application FAQs",Not Specified,5-7 years,Not Specified,Bridgenext,https://careers-bridgenext.icims.com/jobs/10420/management-consultant/job,FullTime
+Corporate Operations Analyst,"Corporate Operations Analyst
+
+
+
+Job Locations
+
+United States
+
+
+
+
+
+
+ID
+
+2026-10399
+
+
+
+Type
+
+FullTime
+
+
+
+Category
+
+Administrative/Clerical
+
+
+
+
+
+
+
+
+
+
+Company Overview
+
+
+
+
+
+
+Bridgenext is a digital consulting services leader that helps clients innovate with intention and realize their digital aspirations by creating digital products, experiences, and solutions around what real people need. Our global consulting and delivery teams facilitate highly strategic digital initiatives through digital product engineering, automation, data engineering, and infrastructure modernization services, while elevating brands through digital experience, creative content, and customer data analytics services. Don't just work, thrive. At Bridgenext, you have an opportunity to make a real difference - driving tangible business value for clients, while simultaneously propelling your own career growth. Our flexible and inclusive work culture provides you with the autonomy, resources, and opportunities to succeed. 
+
+
+
+
+
+
+
+Position Description
+
+
+
+
+
+
+The Corporate Operations Analyst supports the CEO and CPO with day-to-day operational execution, cross functional coordination, and follow through on strategic priorities. This role requires strong analytical acumen, attention to detail, and the ability to manage multiple priorities in a fast-paced environment. In this position, you will conduct data analysis, interpret financial reports, and generate clear, structured insights that help inform decisions and support execution across the organization. The ideal candidate is highly organized, proactive, and execution oriented, with strong analytical skills, excellent communication, and the ability to manage multiple moving parts.   Responsibilities include but are not limited to:Support the CEO, CPO and executive leadership in analytical projects, planning efforts, leadership reporting and operational initiatives, ensuring priorities are clearly tracked and driven to completion Oversee core administrative processes, including executive expense reporting andcoordination of office operations, inventory, and events Assist with data analysis for board and leadership meetings, translating information into clear insights, visualizations, andexecutive level PowerPoint presentations  Preparehigh-quality reports, presentations, and leadership materials to support internal alignment and external communications with a high degree of accuracy and professionalism .Track performance metrics, projects and key deliverables toensure timely executionCollaborate across departments and teams to anticipate challenges and manage competing priorities in a fast-paced environment  Workplace: Conshohocken (Hybrid – 3 days onsite per week)  Must Have Skills:Bachelor’s degree in Finance, Economics, Business Administration, or a related field1–4 years of experience in an analytical or business operations role  Exceptional Excel and PowerPoint skills (spreadsheets, pivot tables, and complex analysis) with the ability to organize,analyze, and present information clearly.   Understanding of budgeting, planning, and performance tracking as tools to support operationaldecision-making  Experience supporting senior leaders with planning, coordination, and execution of initiatives.  Proven ability to manage multiple projects simultaneously and maintain attention to detail while moving quickly.  Strong ability to act as a connector across teams, ensuring information flows effectively and priorities remain aligned.   Preferred Skills:Excellent written and verbal communication skillsHighly organized, detail-oriented, and able to work independentlyStrong strategic and analytical thinking abilitiesExceptional problem-solving skills with the ability to identify root causes and propose practical solutionsStrong sense of ownership and reliability • Ability to adapt and prioritize effectively in a dynamic, fast-paced environment Professional Skills:Solid written, verbal, and presentation communication skillsStrong team and individual playerMaintains composure during all types of situations and is collaborative by natureHigh standards of professionalism, consistently producing high quality resultsSelf-sufficient, independent requiring very little supervision or interventionDemonstrate flexibility and openness to bring creative solutions to address issues Bridgenext is an Equal Opportunity Employer US citizens and those authorized to work in the US are encouraged to apply    #LI-CG1
+
+
+
+
+Options
+
+Apply for this job onlineApplyShareRefer this job to a friendRefer
+
+
+<p style=""margin: 0px;""><span style=""font-size: 12pt;"">Sorry the Share function is not working properly at this moment. Please refresh the page and try again later.</span></p>
+
+Share on your newsfeed
+
+
+
+
+
+Application FAQs",Not Specified,4 years,Not Specified,Bridgenext,https://careers-bridgenext.icims.com/jobs/10399/corporate-operations-analyst/job,FullTime
